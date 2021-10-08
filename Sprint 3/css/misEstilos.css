@@ -1,0 +1,13 @@
+.alinear{
+    text-align: center;
+}
+
+.formsesion{
+    margin-top: 10%;
+    align-content: center;
+    text-align: center;
+}
+
+.formsesion.title{
+    font-size: 5em;
+}
